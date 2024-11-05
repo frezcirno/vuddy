@@ -1,0 +1,3 @@
+[submodule "vuddy-src"]
+	path = vuddy-src
+	url = git@github.com:squizz617/vuddy.git
